@@ -73,11 +73,26 @@ a{
      color: orange;
  }
 .card-1{
+
     margin-left: 100px;
     margin-top: 500px;
-    height: 500px;
+    height: 600px;
     width: 500px;
     border-radius: 15px;
     box-sizing: border-box;
     box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), 0 40px 60px rgba(0, 0, 0, 0.4);
+}
+.card-1 .color{
+     height: 30px; 
+     border-top-left-radius: 15px ;
+     border-top-right-radius: 15px ;
+    width: 500px;
+    background-color: lightskyblue;
+}
+#heading{
+    font-family: nunito;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
 }
