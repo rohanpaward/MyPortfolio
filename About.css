@@ -75,12 +75,12 @@ a{
     margin-top: 100px;
  }
  p{
-   margin-top: -800px;
+   margin-top: -820px;
    margin-left: 990px;
     font-family: Nunito;
     font-weight: bolder;
     color: rgba(128, 128, 128, 0.69);
-    font-size: 15px;
+    font-size: 20px;
 
 }
 #heading{
@@ -95,5 +95,47 @@ a{
 p b{
     font-weight: bold;
     color: black;
-    font-size: large;
+    font-size: x-large;
+}
+img{
+  margin: -10px;
+}
+
+.box{
+    margin-left: 250px;
+    
+    position: absolute;
+    margin-top: 100px;
+    width: 25%;
+    height: 500px;
+    background-color:white;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), 0 40px 60px rgba(0, 0, 0, 0.4);
+    border-radius: 50px;
+    font-family: nunito;
+   
+}
+h2{
+   
+    margin-left: 30px;
+    width: 50%;
+    font-size: 40px;
+    
+}
+#Skills{
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+   
+}
+.card2{
+    margin-left: 900px;
+    height: 10px;
+    position: absolute;
+    margin-top: 100px;
+    width: 25%;
+    height: 500px;
+    background-color:white;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), 0 40px 60px rgba(0, 0, 0, 0.4);
+    border-radius: 50px;
+    font-family: nunito;
 }
